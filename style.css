@@ -1,0 +1,32 @@
+/*
+Theme Name: Meal
+Theme URI:
+Author:Nazmul
+Author URI:
+Description: This Is Our First HyperMinimal Theme.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, food-and-drink, e-commerce
+Text Domain: meal
+*/
+
+/*===Comment===*/
+.commentlist{
+    list-style: none;
+    position: relative;
+    padding-left: 60px;
+}
+.comment-author.vcard{
+    position: absolute;
+    left: 0;
+}
+.comment-author.vcard img {
+    width: 60px;
+    border-radius: 50%;
+}
+.children{
+    position: relative;
+    list-style: none;
+    padding-left: 60px;
+}
